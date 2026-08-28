@@ -1,0 +1,6 @@
+{
+  "name": "LANCY Luxury Fashion Catalog Studio",
+  "description": "Studio tạo Prompt và Visual Catalog thời trang cao cấp chuẩn thương hiệu LANCY với 5 góc chụp chuyên nghiệp.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
